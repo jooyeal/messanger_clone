@@ -19,25 +19,12 @@
 }
 
 .nav__comment-notification {
-    background-color: tomato;
-    color: white;
-    width: 20px;
-    height: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     position: absolute;
-    border-radius: 50%;
     left: 20px;
     bottom: 20px;
-    font-weight: 600;
 }
 
 .nav__ellipsis-notification {
-    background-color: tomato;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
     position: absolute;
     left: 35px;
     bottom: 25px;
